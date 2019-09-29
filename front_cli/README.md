@@ -4,8 +4,8 @@
 
 使用方式 npm install
 
-要写多页面，build目录下有个app.json文件，里面配置的是多页面的信息，如果想添加页面就需要在app.json
-建立相应的配置，并在page下建立相应的目录，
+`要写多页面，build目录下有个app.json文件，里面配置的是多页面的信息，如果想添加页面就需要在app.json
+建立相应的配置，并在page下建立相应的目录，`
 
 npm start是开发环境的运行命令，build是打包命令
 
