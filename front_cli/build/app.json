@@ -1,0 +1,4 @@
+{
+  "home": "./src/page/home/main.js",
+  "my": "./src/page/my/main.js"
+}
